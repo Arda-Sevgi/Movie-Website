@@ -1,5 +1,7 @@
 # Somewhere Only We Know – Movie Website
 
+**Public project overview — academic web project.** This repository contains documentation only. The implementation source remains private. Project details and non-confidential design decisions are available on request; restricted assessment source is not distributed here.
+
 A responsive and accessible promotional website for the fictional film **Somewhere Only We Know**.
 
 The project combines front-end web development with multimedia design, including a film poster, studio logo, radio advertisement, interactive elements, and an accessibility and responsiveness report.
@@ -112,49 +114,11 @@ The final advertisement was exported as an MP3 file.
 - BandLab
 - ElevenLabs
 
-## 📂 Project Structure
+## Reviewing this project
 
-```text
-Movie-Site/
-│
-├── index.html
-├── poster.html
-├── logo.html
-├── audio.html
-├── report.html
-├── style.css
-├── main.js
-│
-├── images/
-│   ├── poster_workspace.png
-│   ├── logo_workspace.png
-│   └── audio_workspace.png
-│
-└── audio/
-    └── radio-advert.mp3
-```
+The descriptions refer to the original HTML, CSS and JavaScript website. The website files and multimedia assets are not distributed in this overview repository, so cloning it will not produce a working demo.
 
-> File names may vary depending on the current version of the repository.
-
-## 🚀 Getting Started
-
-This is a static front-end website and does not require a backend or database.
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/Arda-Sevgi/Movie-Site.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd Movie-Site
-```
-
-Open `index.html` in a web browser.
-
-Alternatively, the project can be run using a local development server such as the **Live Server** extension in Visual Studio Code.
+[Request project details](mailto:ardasevgiuk@outlook.com?subject=Movie%20Website%20project%20enquiry) · [Portfolio](https://arda-sevgi.github.io/Portfolio/)
 
 ## 📱 Responsive Breakpoints
 
